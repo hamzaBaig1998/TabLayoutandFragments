@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Newspaper</string>
+    <string name="app_name_headline_news">Headlines</string>
+    <string name="app_name_national_news">National</string>
+    <string name="app_name_international_news">International</string>
+    <string name="app_name_sports_news">Sports</string>
+    <string name="app_name_details_news">Details</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
